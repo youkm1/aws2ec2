@@ -1,0 +1,34 @@
+<resources>
+    <attr name="colorCustomColor1" format="color" />
+    <attr name="colorOnCustomColor1" format="color" />
+    <attr name="colorCustomColor1Container" format="color" />
+    <attr name="colorOnCustomColor1Container" format="color" />
+    <attr name="colorCustomColor2" format="color" />
+    <attr name="colorOnCustomColor2" format="color" />
+    <attr name="colorCustomColor2Container" format="color" />
+    <attr name="colorOnCustomColor2Container" format="color" />
+    <attr name="colorFABZeroWaste" format="color" />
+    <attr name="colorOnFABZeroWaste" format="color" />
+    <attr name="colorFABZeroWasteContainer" format="color" />
+    <attr name="colorOnFABZeroWasteContainer" format="color" />
+    <attr name="colorCustomColor4" format="color" />
+    <attr name="colorOnCustomColor4" format="color" />
+    <attr name="colorCustomColor4Container" format="color" />
+    <attr name="colorOnCustomColor4Container" format="color" />
+    <attr name="colorCustomColor5" format="color" />
+    <attr name="colorOnCustomColor5" format="color" />
+    <attr name="colorCustomColor5Container" format="color" />
+    <attr name="colorOnCustomColor5Container" format="color" />
+    <attr name="colorCustomColor6" format="color" />
+    <attr name="colorOnCustomColor6" format="color" />
+    <attr name="colorCustomColor6Container" format="color" />
+    <attr name="colorOnCustomColor6Container" format="color" />
+    <attr name="colorCustomColor7" format="color" />
+    <attr name="colorOnCustomColor7" format="color" />
+    <attr name="colorCustomColor7Container" format="color" />
+    <attr name="colorOnCustomColor7Container" format="color" />
+    <attr name="colorFABCommunity" format="color" />
+    <attr name="colorOnFABCommunity" format="color" />
+    <attr name="colorFABCommunityContainer" format="color" />
+    <attr name="colorOnFABCommunityContainer" format="color" />
+</resources>

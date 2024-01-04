@@ -1,0 +1,37 @@
+<resources>
+    <style name="Theme.GreenKim" parent="android:Theme.Material.NoActionBar">
+        <item name="android:colorPrimary">@color/md_theme_primary</item>
+        <item name="colorCustomColor1">@color/colorCustomColor1</item>
+        <item name="colorOnCustomColor1">@color/colorOnCustomColor1</item>
+        <item name="colorCustomColor1Container">@color/colorCustomColor1Container</item>
+        <item name="colorOnCustomColor1Container">@color/colorOnCustomColor1Container</item>
+        <item name="colorCustomColor2">@color/colorCustomColor2</item>
+        <item name="colorOnCustomColor2">@color/colorOnCustomColor2</item>
+        <item name="colorCustomColor2Container">@color/colorCustomColor2Container</item>
+        <item name="colorOnCustomColor2Container">@color/colorOnCustomColor2Container</item>
+        <item name="colorFABZeroWaste">@color/colorFABZeroWaste</item>
+        <item name="colorOnFABZeroWaste">@color/colorOnFABZeroWaste</item>
+        <item name="colorFABZeroWasteContainer">@color/colorFABZeroWasteContainer</item>
+        <item name="colorOnFABZeroWasteContainer">@color/colorOnFABZeroWasteContainer</item>
+        <item name="colorCustomColor4">@color/colorCustomColor4</item>
+        <item name="colorOnCustomColor4">@color/colorOnCustomColor4</item>
+        <item name="colorCustomColor4Container">@color/colorCustomColor4Container</item>
+        <item name="colorOnCustomColor4Container">@color/colorOnCustomColor4Container</item>
+        <item name="colorCustomColor5">@color/colorCustomColor5</item>
+        <item name="colorOnCustomColor5">@color/colorOnCustomColor5</item>
+        <item name="colorCustomColor5Container">@color/colorCustomColor5Container</item>
+        <item name="colorOnCustomColor5Container">@color/colorOnCustomColor5Container</item>
+        <item name="colorCustomColor6">@color/colorCustomColor6</item>
+        <item name="colorOnCustomColor6">@color/colorOnCustomColor6</item>
+        <item name="colorCustomColor6Container">@color/colorCustomColor6Container</item>
+        <item name="colorOnCustomColor6Container">@color/colorOnCustomColor6Container</item>
+        <item name="colorCustomColor7">@color/colorCustomColor7</item>
+        <item name="colorOnCustomColor7">@color/colorOnCustomColor7</item>
+        <item name="colorCustomColor7Container">@color/colorCustomColor7Container</item>
+        <item name="colorOnCustomColor7Container">@color/colorOnCustomColor7Container</item>
+        <item name="colorFABCommunity">@color/colorFABCommunity</item>
+        <item name="colorOnFABCommunity">@color/colorOnFABCommunity</item>
+        <item name="colorFABCommunityContainer">@color/colorFABCommunityContainer</item>
+        <item name="colorOnFABCommunityContainer">@color/colorOnFABCommunityContainer</item>
+    </style>
+</resources>
